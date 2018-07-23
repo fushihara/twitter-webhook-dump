@@ -1,0 +1,12 @@
+{
+  "port": 0,
+  "commandExpressPrefixUrl": "/cmd/",
+  "consumerKey": "",
+  "consumerSecret": "",
+  "accessToken": "",
+  "accessTokenSecret": "",
+  "devLabel": "",
+  "webhookUrl": "",
+  "webhookExpressPrefixUrl": "",
+  "logDir":"./../log/"
+}
